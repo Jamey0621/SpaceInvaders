@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Jamey/source/repos/Space Invaders/Content/Button.png","C:/Users/Jamey/source/repos/Space Invaders/Content/bin/Windows/Content/Button.xnb","TextureProcessor","Texture2DContent",230,20085,0.3092464
+"C:/Users/Jamey/source/repos/Space Invaders/Content/invader_blue.jpg","C:/Users/Jamey/source/repos/Space Invaders/Content/bin/Windows/Content/invader_blue.xnb","TextureProcessor","Texture2DContent",4147,202585,0.0432671
+"C:/Users/Jamey/source/repos/Space Invaders/Content/invader_green.jpg","C:/Users/Jamey/source/repos/Space Invaders/Content/bin/Windows/Content/invader_green.xnb","TextureProcessor","Texture2DContent",5455,202117,0.0310666
+"C:/Users/Jamey/source/repos/Space Invaders/Content/invader_yellow.png","C:/Users/Jamey/source/repos/Space Invaders/Content/bin/Windows/Content/invader_yellow.xnb","TextureProcessor","Texture2DContent",2158,202585,0.0120216
+"C:/Users/Jamey/source/repos/Space Invaders/Content/missile.png","C:/Users/Jamey/source/repos/Space Invaders/Content/bin/Windows/Content/missile.xnb","TextureProcessor","Texture2DContent",169,2085,0.0047373
+"C:/Users/Jamey/source/repos/Space Invaders/Content/ship.png","C:/Users/Jamey/source/repos/Space Invaders/Content/bin/Windows/Content/ship.xnb","TextureProcessor","Texture2DContent",2395,200789,0.0105835
+"C:/Users/Jamey/source/repos/Space Invaders/Content/SpaceFont.spritefont","C:/Users/Jamey/source/repos/Space Invaders/Content/bin/Windows/Content/SpaceFont.xnb","FontDescriptionProcessor","SpriteFontContent",2018,70690,1.2312167
+"C:/Users/Jamey/source/repos/Space Invaders/Content/SpaceTrans.png","C:/Users/Jamey/source/repos/Space Invaders/Content/bin/Windows/Content/SpaceTrans.xnb","TextureProcessor","Texture2DContent",68280,5022465,1.5740747

@@ -1,0 +1,44 @@
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Content\SpaceFont.xnb
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Space Invaders.exe
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Space Invaders.deps.json
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Space Invaders.runtimeconfig.json
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Space Invaders.runtimeconfig.dev.json
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Space Invaders.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Space Invaders.pdb
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\Jamey\source\repos\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.csproj.AssemblyReference.cache
+C:\Users\Jamey\source\repos\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.AssemblyInfoInputs.cache
+C:\Users\Jamey\source\repos\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.AssemblyInfo.cs
+C:\Users\Jamey\source\repos\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Jamey\source\repos\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.csproj.CopyComplete
+C:\Users\Jamey\source\repos\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.dll
+C:\Users\Jamey\source\repos\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.pdb
+C:\Users\Jamey\source\repos\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.genruntimeconfig.cache
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Content\SpaceTrans.xnb
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Content\Button.xnb
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Content\invader_blue.xnb
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Content\invader_green.xnb
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Content\invader_yellow.xnb
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Content\missile.xnb
+C:\Users\Jamey\source\repos\Space Invaders\bin\Debug\netcoreapp3.1\Content\ship.xnb
